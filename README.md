@@ -17,7 +17,7 @@
 
 ## ARTS的初衷 ##
 
-- Algorithm。主要是为了编程训练和学习。每周至少做一个 leetcode 的算法题（先从Easy开始，然后再Medium，
+- Algorithm。主要是为了编程训练和 学习。每周至少做一个 leetcode 的算法题（先从Easy开始，然后再Medium，
 	最后才Hard）。进行编程训练，如果不训练你看再多的算法书，你依然不会做算法题，看完书后，你需要训练。
 	关于做Leetcode的的优势，你可以看一下我在coolshell上的文章 Leetcode 编程训练 - 酷 壳 - CoolShell。
 	
